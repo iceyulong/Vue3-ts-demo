@@ -1,2 +1,2 @@
-# vue3-ts-demo
+Vue3-ts-demo
 a platform for fun
